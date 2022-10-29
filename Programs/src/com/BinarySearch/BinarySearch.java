@@ -1,4 +1,4 @@
-package com.LeetCode.binarySearch;
+package com.BinarySearch;
 
 
 
